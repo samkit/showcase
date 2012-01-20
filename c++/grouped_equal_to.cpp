@@ -1,4 +1,6 @@
 // Author: Samkit Jain
+// Purpose: This concept can be very useful in atomically checking equality
+//          of a group of values.
 
 #include <iostream>
 #include <cstdio>
