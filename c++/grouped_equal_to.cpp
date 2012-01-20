@@ -79,7 +79,8 @@ int main()
                 p2,
                 (p2, p3),
                 (m1, m2),
-                (ref_data(i), 1)
+                (ref_data(i), 7),
+                ((a, "a"), (m1, m2), ((p1, p2), p2))
             )) << endl;
     return 0;
 }
